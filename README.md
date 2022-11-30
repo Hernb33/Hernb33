@@ -13,11 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)]()
-[![website](./img/linkedin-dark.svg)]()
-&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/feed/)
 [![website](./img/instagram-light.svg)](https://www.instagram.com/briitaco/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/briitaco/)
 
 ### Languages and Tools:
 
